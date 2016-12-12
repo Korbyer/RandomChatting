@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "488920354029",
+    "firebase_url": "https://randomchatting-65acc.firebaseio.com",
+    "project_id": "randomchatting-65acc",
+    "storage_bucket": "randomchatting-65acc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488920354029:android:8be896657c2f0efd",
+        "android_client_info": {
+          "package_name": "com.example.admin.randomchatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488920354029-639684d7h8d49qhi9k8cnp4aomlcmsr6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDndvf8T8MG_Cv9vqUMaCPLiQUGYl9ZkI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
